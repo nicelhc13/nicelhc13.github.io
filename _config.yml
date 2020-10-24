@@ -86,7 +86,7 @@ author:
   location         : "Austin, TX"
   employer         :
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=H86M5EEAAAAJ"
   email            : "hochan_at_utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/nicelhc13"
+  github           : "nicelhc13"
   google_plus      :
   keybase          :
   instagram        :
