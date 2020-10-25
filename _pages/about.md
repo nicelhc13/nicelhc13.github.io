@@ -30,6 +30,12 @@ sets for GraphDB. To do this, I have researched on RDF formats and converting sy
 I also have contributed to hyper graph partitioning technique.
 
 
-%Research Interest
-%======
-%Hello World
+Publications:
+======
+---
+title: "A Study of APIs for Graph Analytics Workloads"
+collection: publications
+venue: IEEE International Symposium Workload Characterization
+date: 2020-10-29
+paperurl:
+---
